@@ -72,3 +72,17 @@ Broad range of 2D and 3D interactive content, with deeper support for 2D.
 
 - [Download](https://godotengine.org/download/)
 - [Documentation](https://docs.godotengine.org/en/stable/index.html)
+
+## Flatgames
+
+### Focus
+
+Developed through events organized by [Llaura Dreamfeel](https://dreamfeel.ie/) and [Breogán Hackett](https://hyphinett.itch.io/), Flatgames are a genre that emphasizes expressive creativity through speedy, unpolished craft and simple mechanics.
+
+Flatgames can be created using many different tools.
+
+### Examples
+
+- [Flatjam 2016](https://itch.io/jam/flatgame-annual-2016)
+- [Flatjam 2017](https://itch.io/jam/flatgame-annual-2017)
+- [Flatjam 2018](https://itch.io/jam/flatjam2018)
